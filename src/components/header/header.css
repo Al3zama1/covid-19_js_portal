@@ -1,0 +1,33 @@
+#header {
+  background-color: aquamarine;
+  display: flex;
+  min-height: 100px;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 50px;
+}
+
+#header h1 {
+  margin: 0;
+}
+
+#header_items {
+  width: 200px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.header_item {
+  list-style: none;
+}
+
+.header_item a {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.header_item a:hover {
+  color: coral;
+}

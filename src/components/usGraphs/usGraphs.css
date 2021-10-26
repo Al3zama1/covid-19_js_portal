@@ -1,0 +1,18 @@
+text {
+  font-family: Calibri;
+}
+span {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+}
+div {
+  margin: auto;
+  /* width: 1000px; */
+}
+.confirmed {
+  fill: #f47174;
+}
+.deaths {
+  fill: #181a18;
+}

@@ -1,0 +1,30 @@
+svg {
+  display: block;
+  margin: auto;
+}
+#ui{
+  display: block;
+  margin: auto;
+  text-align: center;
+  margin: 5px;
+}
+#graphic{
+  display: block;
+  margin: auto;
+  text-align: center;
+}
+.line {
+  fill: none;
+  stroke: #f47174;
+  stroke-width: 2px;
+}
+.c {
+  fill: none;
+  stroke: #f47174;
+  stroke-width: 2px;
+}
+.d {
+  fill: none;
+  stroke: #181a18;
+  stroke-width: 2px;
+}
